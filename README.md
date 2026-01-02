@@ -40,21 +40,3 @@ pip install -r requirements.txt
 streamlit run main.py
 
 
-💡 Workflow
-
-User inputs via Streamlit
-
-Backend sends requests to AI API
-
-AI returns generated content in real-time
-
-🚀 Future Ideas
-
-User accounts & profiles
-
-Chat-like matchmaking
-
-Export/share content
-
-Analytics dashboard
-└── features/
